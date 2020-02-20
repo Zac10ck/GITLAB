@@ -1,0 +1,5 @@
+Debian/Ubuntu
+sudo dpkg -r gitlab
+
+Redhat/Centos
+sudo rpm -e gitlab
